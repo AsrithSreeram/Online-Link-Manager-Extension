@@ -1,0 +1,13 @@
+{
+    "name": "Online Classes",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Online Class Link Manager right from your browser. Data is stored using Local Storage",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_name": "Online Classes"
+    }
+}
+
+
+
